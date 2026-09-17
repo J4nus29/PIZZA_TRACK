@@ -1,5 +1,6 @@
 public class Pizza {
     private String nombre;
+    //Arreglo fijo que almacena los tres ingredientes de la pizza
     private String[] ingredientes;
 
     public Pizza(String nombre, String[] ingredientes) {
